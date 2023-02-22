@@ -1,0 +1,13 @@
+.body{
+}
+
+.main{
+    background: linear-gradient(90deg, black 10%, pink 100%);
+}
+.branco{
+    width: 30em;
+    height: 30em;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+}
